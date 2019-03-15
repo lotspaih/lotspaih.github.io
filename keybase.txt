@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/lotspaih
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://lotspaih.com
+  * I am lotspaih (https://keybase.io/lotspaih) on keybase.
+  * I have a public key with fingerprint 6505 6DA2 F3D8 6AD1 F886  9D9E 3631 861E 72A2 E481
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101be92a9fc1eaf17d2d36d1ab9085041188b8d60260c461e368f5ca39ab13f63710a",
+      "fingerprint": "65056da2f3d86ad1f8869d9e3631861e72a2e481",
+      "host": "keybase.io",
+      "key_id": "3631861e72a2e481",
+      "kid": "0101be92a9fc1eaf17d2d36d1ab9085041188b8d60260c461e368f5ca39ab13f63710a",
+      "uid": "8d0dd213eacbae08774b8747170c1d19",
+      "username": "lotspaih"
+    },
+    "service": {
+      "hostname": "lotspaih.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1508869856,
+  "expire_in": 157680000,
+  "prev": "7dc3db0075fe7064a0875f9167cdc245b6384729fd05ac3678b463d3fd058f13",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMIjAnicrVJbSBVBGD6nLFEqCkwfqpclIsJkZmd3dvZUDz30UkhJEBTBaXZnVtfL
+2ePZVTMxfcouaBfIsoQgUgjSogt0edEsQcVjWalRJ7OyOGiZGBRdqFmpl+ixeRn+
+f77vm+//+O8tnBtIDw41Kvkp65qWB/s6G8sCO6cOvKySDIdVSqEqqYjPXryYcdcL
+F9lMCkkAAmhwXaa6ZUJOLagxmSHMIDV0QFSgQEiIQRgGMgamgiFHmFiqSZFODYgs
+jDQIqJQtWXYkn8eiMTviCVmsAhUzKluIEUwZtAjBOtMFGUEiRDSZylwhUBALHNdn
+CHMGdXmO7YieKMKz9v6B/8++y2blCAOMyRBxahqUA6JpikE0RYMaMCGDug90eSxC
+S7hAFzueG6V2gVSdLYluuW1yP1h/kr8QOaZTIrjRmOM5plMsXgo8LxryiV5l1EdW
+cCP8WyNs2BEmYhSEch5zbScihaBAmp7ti0IV+CkSFWdLfG/UjvGw7SNUDRMgjv8N
+LxeSGjMRMwDQVItrACtUzKNaOsSayUxZUQ2MiKLJusWASk2ENWIoGDHk18SCSPKn
+Ko04UggJmzRfSLp2foR6ZTEuVd/t2J0SCKYH5s+b469XID1t8Z+lS15K/WlU7Vn+
+9XLDsGlt2zM4ejzj1bX3wfraF6H9idJYw6rN5VdW1Fxo2jRZu+7k864vq6aybpnJ
+0rrWgZkuoyEx2BvPW7P1aOvY40UL5n3qu/Qt1zuRO328uWe9O7J9SfPTlTVfeuM9
+7VkJ157zaknD7qaPt1n7t7yzLUudq6fbHhyOHxtOXpyoyMtcPT4T/LQrXrdhoH+0
+pG9t9YlHG59tzant+37zfiKRekg7eebz+uiVd2P9B+XG12hqJHM83Jl3fRQl0kpm
+VrSE7mQXrs4IxtueTleNvJ48tyM95XzHqaGdP+qTTwIV1ROFHx7uak7dt2VtS7w1
+sf979zgh3YVvR288Szmy7M0v8cpRtQ==
+=6tvD
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lotspaih
+
+==================================================================

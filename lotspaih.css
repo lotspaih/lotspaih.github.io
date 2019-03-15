@@ -1,0 +1,31 @@
+/* lotcom.github.io - Mark Lotspaih */
+/* Keeping CSS clean, simple, and short */
+
+body {
+    background-color: #fbfbfb;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+header{
+  text-align: center;
+}
+
+a {
+  color:blue;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #DAA520;
+  text-decoration: underline;
+}
+
+#container {
+  padding: 0.809em;
+  max-width: 50em;
+  margin: auto;
+}
+
+footer{
+  text-align: right;
+}
