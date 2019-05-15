@@ -8,6 +8,7 @@ body {
 
 header{
   text-align: center;
+  margin-top: 20px;
 }
 
 a {
@@ -20,12 +21,16 @@ a:hover{
   text-decoration: underline;
 }
 
+.img-circle{
+  border-radius: 30%;
+}
+
 #container {
   padding: 0.809em;
-  max-width: 50em;
+  max-width: 65em;
   margin: auto;
 }
 
 footer{
-  text-align: right;
+  text-align: center;
 }
