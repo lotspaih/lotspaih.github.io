@@ -42,6 +42,10 @@ a:hover{
   margin: auto;
 }
 
+i {
+  font-style: italic;
+}
+
 footer{
   text-align: center;
 }
