@@ -6,7 +6,7 @@ body {
     font-family: 'Lexend Deca', sans-serif;
 }
 
-header{
+#header {
   text-align: center;
   margin-top: 20px;
 }
@@ -16,12 +16,12 @@ a {
   text-decoration: none;
 }
 
-a:hover{
+a:hover {
   color: #DAA520;
   text-decoration: underline;
 }
 
-.img-circle{
+.img-circle {
   border-radius: 40%;
 }
 
@@ -42,6 +42,6 @@ a:hover{
   margin: auto;
 }
 
-footer{
+footer {
   text-align: center;
 }
