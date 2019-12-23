@@ -1,14 +1,19 @@
 /* lotspaih.github.io - Mark Lotspaih */
 /* Keeping CSS clean, simple, and short */
 
+@font-face{
+  font-family: lexenddeca;
+  src: url(LexendDeca-Regular.woff);
+}
+
 body {
     background-color: #fbfbfb;
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: lexenddeca;
 }
 
 #header {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 
 a {
