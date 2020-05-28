@@ -2,6 +2,7 @@
 /* Keeping CSS clean, simple, and short */
 
 @font-face{
+  /*Lexend is a Dyslexia-friendly font. https://www.lexend.com/ */
   font-family: lexenddeca;
   src: url(LexendDeca-Regular.woff);
 }
@@ -13,7 +14,9 @@ body {
 
 #header {
   text-align: center;
-  margin-top: 30px;
+  background-color: lightsteelblue;
+  padding-bottom: .75rem;
+  padding-top: .25rem;
 }
 
 a {
@@ -45,6 +48,11 @@ a:hover {
   padding: 0.809em;
   max-width: 65em;
   margin: auto;
+}
+
+summary {
+	cursor: pointer;
+	font-weight: bold;
 }
 
 footer {
