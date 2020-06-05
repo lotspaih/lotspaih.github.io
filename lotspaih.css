@@ -8,13 +8,13 @@
 }
 
 body {
-    background-color: #fbfbfb;
+    background-color: white; /*Previously #fbfbfb*/
     font-family: lexenddeca;
 }
 
 #header {
   text-align: center;
-  background-color: lightgrey;
+  background-color: whitesmoke;
   padding-bottom: .75rem;
   padding-top: .25rem;
 }
